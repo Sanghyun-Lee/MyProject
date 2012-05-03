@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_00c2_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Hs_Pad.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAhBAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Hs_Pad.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDrawPadDlg" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CDrawPadDlg::__unnamed_00bd_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DrawPadDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EACCKAEkwglIAALEMvZAAAJcCBAAeFgIkICAARARAgE=</HashCode>
+      <FileName>DrawPadDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CExplorer1" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>dCgYQJVEQJJBECtMAgERSMAgiRBMFkVQsAFaCgAITwI=</HashCode>
+      <FileName>explorer1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHs_PadApp" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgBAAAAAAAAAAAQAAAABAIAAAAA=</HashCode>
+      <FileName>Hs_Pad.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHs_PadDoc" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAABAAQAAAAAAACgBAgAAAADAgAgAAEAAAAAAAEAA=</HashCode>
+      <FileName>Hs_PadDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHs_PadView" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAJAgAAQCgBAgAAFgBBgAgAAEAgIgBAAAQA=</HashCode>
+      <FileName>Hs_PadView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAQAAAAAAACgBAiAAAgDAAAgAAEAAAAIAAABA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTextPadDlg" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQJQAAEAQAAAAAgAIhBADACAARBACAKAECAAAgADAAA=</HashCode>
+      <FileName>TextPadDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUrlPadDlg" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CUrlPadDlg::__unnamed_00cc_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UrlPadDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAkFAQiAggAgQAhBSAAAoAhAoAAwENAAAEAEgIAA=</HashCode>
+      <FileName>UrlPadDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUrlSearchDlg" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAARAAAAAgAAhBAAEAACBAAAAAAFIAABAABAAA=</HashCode>
+      <FileName>UrlSearchDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialog" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAyCkAQMAYAAgEDgLAgBTFADADAUAgFAoQAAFABiA=</HashCode>
+      <FileName>c:\program files\microsoft visual studio 9.0\vc\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
